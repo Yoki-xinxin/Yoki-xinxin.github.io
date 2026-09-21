@@ -77,7 +77,7 @@ window.SITE_TEXT = {
           id: "unnc",
           eyebrow: "Sep 2023 — Present",
           title: "University of Nottingham Ningbo China",
-          subtitle: "BSc International Business Economics",
+          subtitle: "Bachelor of Science in International Business Economics",
           summary: "",
           image: "assets/images/projects/unnc-bell-tower.jpg",
           imageAlt: "UNNC campus and bell tower at sunset.",
@@ -86,8 +86,8 @@ window.SITE_TEXT = {
           coverMeta: "International Business Economics",
           tags: ["Ningbo, China", "Sep 2023 — Present"],
           details: [
-            "Relevant coursework: Industrial Economics, Quantitative Economics, Principles of Economics, Human Resource Management and Firm Strategy and Internationalisation.",
-            "Academic performance details to be added once finalised."
+            "Academic distinction: Top 1% in Human Resource Management with International Perspectives and Trends in Work and Organisations.",
+            "Relevant coursework: Industrial Economics I & II, Firm Strategy and Internationalisation, Principles of Econometrics, Quantitative Methods 1b & 2A, Human Resource Management with International Perspectives, Trends in Work and Organisations."
           ],
           documents: [],
           links: []
