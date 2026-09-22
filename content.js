@@ -103,9 +103,9 @@ window.SITE_TEXT = {
           gallery: ["assets/images/projects/pku-gate.jpg", "assets/images/projects/pku-cover.jpg", "assets/images/projects/pku-group.jpg"],
           coverLabel: "PKU",
           coverMeta: "Media & International Relations",
-          tags: ["Beijing, China", "92/100"],
+          tags: ["Beijing, China", "91/100"],
           details: [
-            "Academic Experience: Studied under Prof. Chen Kaihe, final mark: 92/100.",
+            "Academic Experience: Studied under Prof. Chen Kaihe, final mark: 91/100.",
             "Course focus: media, international relations and China's global communication."
           ],
           documents: [],
@@ -405,7 +405,7 @@ window.SITE_TEXT = {
   aboutPagePortraitSrc: "assets/images/yuxin-portrait-transparent.png",
   aboutPageStats: [
     { value: "Top 1%", label: "Human Resource Management and Trends in Work and Organisations" },
-    { value: "92/100", label: "Peking University summer programme in Media and International Relations" },
+    { value: "91/100", label: "Peking University summer programme in Media and International Relations" },
     { value: "2,100+", label: "registrations generated through university growth activations at DiDi" },
     { value: "10,000", label: "views on the strongest alumni profile at NUBS China" }
   ],
